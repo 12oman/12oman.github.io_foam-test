@@ -1,0 +1,3 @@
+# Notes on Te Reo
+
+I can't make class during lockdown. I'm already in several online meetings during the day and it's just too much to ask the family to be subject to the doublepresence after I finish work

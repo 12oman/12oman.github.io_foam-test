@@ -7,5 +7,7 @@ You can create todos in Foam.
 - [x] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
   - [x] You can also select multiple lines and mark them all at once!
   - [ ] Explain Digital Gardening
+  - [ ] Sort out coffee solution
+  - [ ] Spring Clean Cabin
   
 

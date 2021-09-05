@@ -9,7 +9,8 @@ You can create todos in Foam.
   - [ ] Explain Digital Gardening [[gardening]]
   - [ ] Sort out coffee solution
   - [ ] Spring Clean Cabin
-  - [ ] 
+  - [ ] test out different markdown styles
+  - [ ] Run a Graph `Command`+ `Shift`+`P` Then `Foam: Show Graph`
   
 
 

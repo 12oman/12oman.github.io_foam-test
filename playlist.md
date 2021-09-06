@@ -1,20 +1,21 @@
-Here is a list of books, movies and video that I have or (would like to) read, watch or play. 
+Here is a list of books, movies and video games that I have or (would like to) read, watch or play. 
 
 ## Philosophy
 - [ ] Difference and Repetition (Giles Deleuze)
 - [ ] The Logic of Sense (Giles Deleuze)
 - [ ] Form and Object (Tristan Garcia)
 - [ ] Intensive Science and Virtual Philosophy (Manuel Delanda)
+- [ ] The History of Sexuality (Michel Foucault)
 
 ## Te Ao Māori
-- [ ] 
+- [ ] He Kupu Tuku Iho (Tīmoti Kāretu & Wharehuia Milroy)
 
 
 ## Surviellance Capitalism
 - [x] Shoshana Zuboff, The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power
 - [ ] Jillian C. York, Silicon Values: The Future of Free Speech Under Surveillance Capitalism
   
-  ## Books about video games
+## Books about video games
 - [ ] Warcross (Marie Lu), 
 - [ ] Don’t Read the Comments (Eric Smith
 - [ ] Slay (Brittney Morris) 
@@ -49,4 +50,4 @@ Here is a list of books, movies and video that I have or (would like to) read, w
 
 ## Games
 - [x] Rez (Mari Mancusi)
-- [ ] 
+- [ ] Umurangi Generation (Tali Faulkner)

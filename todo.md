@@ -1,4 +1,4 @@
-# Todo
+# To do
 
 You can create todos in Foam.
 
@@ -6,7 +6,7 @@ You can create todos in Foam.
 - [x] This one is not completed yet
 - [x] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
   - [x] You can also select multiple lines and mark them all at once!
-  - [ ] Explain Digital Gardening [[gardening]]
+  - [x] Explain Digital Gardening [[gardening]]
   - [ ] Sort out coffee solution
   - [ ] Spring Clean Cabin
   - [ ] test out different markdown styles

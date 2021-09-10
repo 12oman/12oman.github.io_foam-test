@@ -1,5 +1,6 @@
 ---
-modified: 2021-09-10T12:52:09+12:00
+modified: 2021-09-10T13:59:08+12:00
+type: Checklist
 ---
 
 Here is a list of books, movies and video games that I have or (would like to) read, watch or play. 
@@ -7,12 +8,12 @@ Here is a list of books, movies and video games that I have or (would like to) r
 ## Philosophy
 - [ x] Difference and Repetition (Giles Deleuze)
 - [ x] The Logic of Sense (Giles Deleuze)
-- [ ] Form and Object (Tristan Garcia)
-- [ ] Intensive Science and Virtual Philosophy (Manuel Delanda)
-- [ ] The History of Sexuality (Michel Foucault)
+- [x] Form and Object (Tristan Garcia)
+- [x] Intensive Science and Virtual Philosophy (Manuel Delanda)
+- [x] The History of Sexuality (Michel Foucault)
 
 ## Te Ao Māori
-- [ ] He Kupu Tuku Iho (Tīmoti Kāretu & Wharehuia Milroy)
+- [x] He Kupu Tuku Iho (Tīmoti Kāretu & Wharehuia Milroy)
 
 
 ## Surviellance Capitalism
@@ -20,11 +21,11 @@ Here is a list of books, movies and video games that I have or (would like to) r
 - [ ] Jillian C. York, Silicon Values: The Future of Free Speech Under Surveillance Capitalism
   
 ## Books about video games
-- [ ] Warcross (Marie Lu), 
+- [x] Warcross (Marie Lu), 
 - [ ] Don’t Read the Comments (Eric Smith
 - [ ] Slay (Brittney Morris) 
-- [ ] For the Win (Cory Doctorow) 
-- [ ] Reamde (Neal Stephenson) 
+- [x] For the Win (Cory Doctorow) 
+- [x] Reamde (Neal Stephenson) 
 - [ ] Dragon Ops (Mari Mancusi) 
 - [ ] Ready Player One (Ernest Cline)
   
@@ -36,7 +37,7 @@ Here is a list of books, movies and video games that I have or (would like to) r
 - [ ] Oryx and Crake (Margaret Atwood) 
 - [ ] After On (Rob Reid) 
 - [x] Binti (Nnedi Okorafor) 
-- [ ] Ready Player One (Ernest Cline) 
+- [x] Ready Player One (Ernest Cline) 
 - [ ] Nexus (Ramez Naam) 
 - [x] The Three-Body Problem (Cixin Liu) 
 - [ ] Warcross (Marie Lu) 

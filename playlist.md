@@ -1,8 +1,12 @@
+---
+modified: 2021-09-10T12:52:09+12:00
+---
+
 Here is a list of books, movies and video games that I have or (would like to) read, watch or play. 
 
 ## Philosophy
-- [ ] Difference and Repetition (Giles Deleuze)
-- [ ] The Logic of Sense (Giles Deleuze)
+- [ x] Difference and Repetition (Giles Deleuze)
+- [ x] The Logic of Sense (Giles Deleuze)
 - [ ] Form and Object (Tristan Garcia)
 - [ ] Intensive Science and Virtual Philosophy (Manuel Delanda)
 - [ ] The History of Sexuality (Michel Foucault)
@@ -44,10 +48,10 @@ Here is a list of books, movies and video games that I have or (would like to) r
 - [ ] Snow Crash (Neal Stephenson)
 
 ## Techy geek books
-- [ ] Cryptonomicon (Neal Stephenson)
+- [ x] Cryptonomicon (Neal Stephenson)
 
 
 
 ## Games
 - [x] Rez (Mari Mancusi)
-- [ ] Umurangi Generation (Tali Faulkner)
+- [ x] Umurangi Generation (Tali Faulkner)

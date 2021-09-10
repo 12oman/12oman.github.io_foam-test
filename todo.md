@@ -1,3 +1,8 @@
+---
+type: Checklist
+modified: 2021-09-10T12:52:46+12:00
+---
+
 # To do
 
 You can create todos in Foam.
@@ -7,10 +12,10 @@ You can create todos in Foam.
 - [x] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
   - [x] You can also select multiple lines and mark them all at once!
   - [x] Explain Digital Gardening [[gardening]]
-  - [ ] Sort out coffee solution
+  - [x] Sort out coffee solution
   - [ ] Spring Clean Cabin
-  - [ ] test out different markdown styles
-  - [ ] Run a Graph `Command`+ `Shift`+`P` Then `Foam: Show Graph`
+  - [x] test out different markdown styles
+  - [x] Run a Graph `Command`+ `Shift`+`P` Then `Foam: Show Graph`
   
 
 

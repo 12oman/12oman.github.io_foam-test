@@ -1,0 +1,21 @@
+---
+created: 2021-10-06T04:02:00+13:00
+modified: 2021-10-06T04:17:42+13:00
+---
+
+# The Space Left Behind
+
+In chess, there’s an idea called “the space left behind.” Imagine a knight that moves away from the centre, or a bishop that cuts a diagonal to the other side of the board, or a queen that leaves her post. Chess players are always attentive to these gaps in their position, these empty squares on the board created by the movement of their pieces.
+
+In our own lives, I think we’re giving over the study of spirituality to a few scary forces. By disengaging from our religious past and present, we’re leaving the space open to forces of extremism. The gaps we’ve created are hermeneutical – they’re the vacant lots in our interpretations and understandings.
+
+We see this in the context of the United States, where sinister ethno-nationalist movements occupy Christian spaces, controlling interpretations and understandings of what is actually a transnational religion. In the context of the Indian subcontinent, a supremacist force with deep pockets, paramilitary volunteers, cultural groups, and political parties has come to occupy the spaces of Hinduism, of what is actually a pluralistic religion. And similar struggles abound for Islam, Buddhism, and others.
+
+The chess metaphor is to call our attention to how a few perverse forces have deformed the character of religious and spiritual inquiry. They’ve turned this area into such a repulsive one that, for many of us, the entire religious sphere feels regressive. It’s “the space left behind.”
+
+But our disenchantment from the sphere of religion and spirituality means that we overlook, forgo, and even erase those who’ve registered their resistance from within such spaces. Dissenters, reformers and critical thinkers have always formed a part of religious inquiry. Recall Jnaneshwar, the 13th century Marathi poet, who bemoaned the great injustices of caste, and whose own teachings tried to form a kind of spiritual egalitarianism; or Mahadeviyakka, Basavanna, Kabir, Sai Baba of Shirdi, Savitri Bai Phule… 
+
+In reading their words, we become intimate with such critical thinkers and their struggles of the past, allowing ourselves an inheritance.
+
+- Post originally from Balamohan Shingade
+- copied so that I can reply without derailing
